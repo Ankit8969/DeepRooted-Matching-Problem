@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  height: 55px;
+  background-color: #1a374d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+nav i {
+  font-size: 50px;
+  color: white;
+}
+nav p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  font-family: cursive;
+}
+
+nav span {
+  padding: 5px;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  position: relative;
+  top: -10px;
+  left: 5px;
+  font-weight: bold;
+}
